@@ -18,3 +18,4 @@ Bu proje, bir şehir için mevcut hava durumunu ve 5 günlük sıcaklık tahmini
 2.  Api için üye olun:
 - https://home.openweathermap.org
 - https://home.openweathermap.org/api_keys adresinden api kodunuzu alın ve api kodunuzu kodda gerekli yere entegre edin.
+3. Main.py dosyasını çalıştırın.
